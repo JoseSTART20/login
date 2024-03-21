@@ -1,0 +1,10 @@
+C:\zeros\login\login\bin\Debug\login.exe.config
+C:\zeros\login\login\bin\Debug\login.exe
+C:\zeros\login\login\bin\Debug\login.pdb
+C:\zeros\login\login\obj\Debug\login.csproj.AssemblyReference.cache
+C:\zeros\login\login\obj\Debug\login.Form1.resources
+C:\zeros\login\login\obj\Debug\login.Properties.Resources.resources
+C:\zeros\login\login\obj\Debug\login.csproj.GenerateResource.cache
+C:\zeros\login\login\obj\Debug\login.csproj.CoreCompileInputs.cache
+C:\zeros\login\login\obj\Debug\login.exe
+C:\zeros\login\login\obj\Debug\login.pdb
